@@ -1,0 +1,838 @@
+{
+    "data": [
+        {
+            "type": "banner",
+            "index": 1,
+            "promotion_name": "Women-EN",
+            "tag": "Home-Hero-AW24",
+            "background_color": "#ffffff",
+            "items": [
+                {
+                    "promotion_name": "Home-Hero-AW24",
+                    "tag": "AW24",
+                    "width": 2000,
+                    "height": 550,
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/30thAug2024-Women/women/web-en.jpg",
+                    "link": "/women/new-in.html?q=Women&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bis_new_in%5D%5B0%5D=1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Women&dFR[in_stock][0]=1&idx=enterprise_magento_english_products"
+                }
+            ]
+        },
+        {
+            "type": "grid",
+            "index": 2,
+            "promotion_name": "Women-EN",
+            "tag": "Home-SBC-Grid-AW24",
+            "background_color": "#ffffff",
+            "items_per_row": 6,
+            "item_height": 240,
+            "items": [
+                {
+                    "promotion_name": "home-Mega SBC-Shoes",
+                    "link": "/women/shoes.html?q=Women+Shoes&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Shoes&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte0&idx=enterprise_magento_english_products",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/30thAug2024-Women/Shoes.jpg",
+                    "tag": "Shoes"
+                },
+                {
+                    "promotion_name": "home-Mega SBC-Clothing",
+                    "link": "/women/clothing.html?q=Women+Clothing&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Clothing&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte0&idx=enterprise_magento_english_products",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/30thAug2024-Women/Clothing.jpg",
+                    "tag": "Clothing"
+                },
+                {
+                    "promotion_name": "home-Mega SBC-Bags & Accessories",
+                    "link": "/women/bags.html?q=Women+Bags&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Bags&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte0&idx=enterprise_magento_english_products",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/2ndSep2024-Women/Bags+en.jpg",
+                    "tag": "Bags & Accessories"
+                },
+                {
+                    "promotion_name": "Home-SBC-Sandals",
+                    "link": "/women/shoes/sandals.html?q=Women+Shoes+Sandals&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Shoes+%2F%2F%2F+Sandals&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bdiscount%5D%5B0%5D=gte0&idx=enterprise_magento_english_products",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/30thAug2024-Women/en/w-sbc-01.jpg",
+                    "tag": "Sandals"
+                },
+                {
+                    "promotion_name": "Home-SBC-Dresses",
+                    "link": "/women/clothing/dresses.html?q=Women+Clothing+Dresses&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Clothing+%2F%2F%2F+Dresses&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte0&idx=enterprise_magento_english_products",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/30thAug2024-Women/en/w-sbc-02.jpg",
+                    "tag": "Dresses"
+                },
+                {
+                    "promotion_name": "Home-SBC-Sneakers",
+                    "link": "/women/shoes/sneakers.html?q=Women+Shoes+Sneakers&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Shoes+%2F%2F%2F+Sneakers&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte0&idx=enterprise_magento_english_products",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/30thAug2024-Women/en/w-sbc-03.jpg",
+                    "tag": "Sneakers"
+                },
+                {
+                    "promotion_name": "Home-SBC-SportsShoes",
+                    "link": "/women/shoes/sports-shoes.html?q=Women+Shoes+Sports+Shoes&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Shoes+%2F%2F%2F+Sports+Shoes&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Women&idx=enterprise_magento_english_products",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/30thAug2024-Women/en/w-sbc-04.jpg",
+                    "tag": "SportsShoes"
+                },
+                {
+                    "promotion_name": "Home-SBC-Accessories",
+                    "link": "/catalogsearch/result/?q=%2B&qid=b1da97517648200225c36fe8037e4efd&p=0&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte0%2Clte81&dFR%5Bcategories_without_path%5D%5B0%5D=Belts%2CCaps+%26+Hats%2CHair+Accessories%2CJewellery%2CScarves%2CAviators%2CCat+Eye+Sunglasses%2CRetro+Sunglasses%2CRound+Sunglasses%2CSquare+Sunglasses%2CAnalog+Watches%2CLeather+Belts%2CNon+Leather+Belts%2CBaseball+Caps%2CBeanies%2CBeret%2CBucket+Hats%2CCaps%2CHats%2CHeadbands%2CVisors%2CKnit%2CLeather%2CMittens%2CBows%2CHair+Clips%2CHairbands%2CAnklets%2CBracelets%2CChains%2CEarrings%2CLapel+Pins%2CNecklaces+%26+Pendants%2CRings%2CBlanket+Scarves%2CHijab+Scarves%2CSilk+Scarves%2CWoollen+Scarves%2CWoven+Scarves%2CSleeves&dFR%5BcategoryIds%5D%5B0%5D=49%2C51%2C52%2C6214%2C55%2C10647%2C10648%2C10649%2C10650%2C10651%2C10664%2C10739%2C10740%2C19065%2C10741%2C10746%2C19066%2C10742%2C10743%2C16025%2C10744%2C19062%2C19063%2C19064%2C10804%2C10802%2C10803%2C10767%2C10757%2C10752%2C10762%2C10764%2C10759%2C10753%2C10773%2C10772%2C10769%2C10771%2C10774%2C16030&idx=enterprise_magento_english_products",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/30thAug2024-Women/en/w-sbc-05.jpg",
+                    "tag": "Accessories"
+                },
+                {
+                    "promotion_name": "Home-SBC-Beauty",
+                    "link": "/women/beauty.html?q=Women+Beauty&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Beauty&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte0&idx=enterprise_magento_english_products",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/30thAug2024-Women/en/w-sbc-06.jpg",
+                    "tag": "Beauty"
+                },
+                {
+                    "promotion_name": "Home-SBC-Loafers",
+                    "link": "/women/shoes/loafers-mocassins.html?q=Women+Shoes+Loafers+%26+Mocassins&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Shoes+%2F%2F%2F+Loafers+%26+Mocassins&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Women&idx=enterprise_magento_english_products",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/30thAug2024-Women/en/w-sbc-07.jpg",
+                    "tag": "Loafers"
+                },
+                {
+                    "promotion_name": "Home-SBC-Backpack",
+                    "link": "/women/bags.html?q=Women+Bags&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Bags&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bdiscount%5D%5B0%5D=gte0&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bcategories_without_path%5D%5B0%5D=Backpacks%2CLaptop+Bags&dFR%5BcategoryIds%5D%5B0%5D=40%2C19117&idx=enterprise_magento_english_products",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/30thAug2024-Women/en/w-sbc-09.jpg",
+                    "tag": "Backpack"
+                },
+                {
+                    "promotion_name": "Home-SBC-Abayas",
+                    "link": "/catalogsearch/result/?q=Abayas&qid=dcf35c4bcbc98c28bee512f9c0f46afa&p=0&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte0%2Clte80&idx=enterprise_magento_english_products",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/30thAug2024-Women/en/w-sbc-10.jpg",
+                    "tag": "Abayas"
+                }
+            ],
+            "image_size": {
+                "height": 669,
+                "width": 573
+            }
+        },
+        {
+            "type": "grid",
+            "index": 3,
+            "promotion_name": "Women-EN",
+            "tag": "Home-TopBrands-AW24",
+            "background_color": "#ffffff",
+            "items_per_row": 6,
+            "item_height": 240,
+            "header": {
+                "title": "BRANDS YOU LOVE"
+            },
+            "items": [
+                {
+                    "promotion_name": "Aldo",
+                    "link": "/catalogsearch/result/?q=Aldo&qid=42b2a89904a497ba370e348ff41e1cad&p=0&dFR%5Bbrand_name%5D%5B0%5D=Aldo%2CAldo+Accessories&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte0&idx=enterprise_magento_english_products",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/2ndSep2024-Women/women+brand/Aldo.jpg",
+                    "tag": "Aldo"
+                },
+                {
+                    "promotion_name": "ON",
+                    "link": "/on-running.html?q=On&p=0&hFR%5Bcategories.level0%5D%5B0%5D=On&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Women&idx=enterprise_magento_english_products",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/2ndSep2024-Women/women+brand/on.jpg",
+                    "tag": "ON"
+                },
+                {
+                    "promotion_name": "SKECHERS",
+                    "link": "/catalogsearch/result/?q=SKECHERS&qid=abb4edc055ad203e0185b09b03a900e7&p=0&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Skechers&dFR%5Bdiscount%5D%5B0%5D=gte0&idx=enterprise_magento_english_products",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/2ndSep2024-Women/women+brand/skechers.jpg",
+                    "tag": "SKECHERS"
+                },
+                {
+                    "promotion_name": "NINE WEST",
+                    "link": "/catalogsearch/result/?q=Nine+West&qid=3bfad4eafc97850108dc193c4adf6fcc&p=0&dFR%5Bbrand_name%5D%5B0%5D=Nine+West&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte0&idx=enterprise_magento_english_products",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/2ndSep2024-Women/women+brand/ninewest.jpg",
+                    "tag": "NINE WEST"
+                },
+                {
+                    "promotion_name": "DUNE LONDON",
+                    "link": "/catalogsearch/result/?q=Dune+London&qid=7824197ac219e5411b57d51675ddf74d&p=0&dFR%5Bdiscount%5D%5B0%5D=gte0&dFR%5Bdiscount%5D%5B0%5D=gte0&dFR%5Bbrand_name%5D%5B0%5D=Dune+London&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_english_products",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/2ndSep2024-Women/women+brand/Dune_.jpg",
+                    "tag": "DUNE LONDON"
+                },
+                {
+                    "promotion_name": "CROCS",
+                    "link": "/catalogsearch/result/?q=Crocs&qid=071948ed416ed9eb545b5024ce32b484&p=0&dFR%5Bbrand_name%5D%5B0%5D=Crocs&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte0&idx=enterprise_magento_english_products",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/2ndSep2024-Women/women+brand/kipling.jpg",
+                    "tag": "CROCS"
+                },
+                {
+                    "promotion_name": "Boohoo",
+                    "link": "/boohoo.html?q=%2B&qid=d67fd5539bea638234f557c6274fbd2b&p=0&dFR%5Bbrand_name%5D%5B0%5D=boohoo%2CCoast%2CDebenhams%2CDorothy+Perkins%2CGorgeous%2CKaren+Millen%2CMaine%2CMissPap%2CNasty+Gal%2COasis%2CPrinciples%2CWallis%2CWarehouse&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte0%2Clte70&idx=enterprise_magento_english_products",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/2ndSep2024-Women/women+brand/Boohoo.jpg",
+                    "tag": "Boohoo"
+                },
+                {
+                    "promotion_name": "Charles & Keith",
+                    "link": "/catalogsearch/result/?q=Charles+%26+Keith&qid=f4026b914ddf5d50755ea70dbb06c425&p=0&dFR%5Bbrand_name%5D%5B0%5D=Charles+%26+Keith&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte0&idx=enterprise_magento_english_products",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/2ndSep2024-Women/women+brand/charles+&+keith.jpg",
+                    "tag": "Charles & Keith"
+                },
+                {
+                    "promotion_name": "FOREVER NEW",
+                    "link": "/catalogsearch/result/?q=FOREVER+NEW&qid=2cc37f022a38a5a7c963a953a040c9de&p=0&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Forever+New&dFR%5Bdiscount%5D%5B0%5D=gte0&idx=enterprise_magento_english_products",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/2ndSep2024-Women/women+brand/forever+new.jpg",
+                    "tag": "FOREVER NEW"
+                },
+                {
+                    "promotion_name": "GUESS",
+                    "link": "/catalogsearch/result/?q=GUESS&qid=5073655756f1a76d40ae8dcce728dd51&p=0&dFR%5Bbrand_name%5D%5B0%5D=Guess&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte0&idx=enterprise_magento_english_products",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/2ndSep2024-Women/women+brand/guess.jpg",
+                    "tag": "GUESS"
+                },
+                {
+                    "promotion_name": "KAREN MILLEN",
+                    "link": "/catalogsearch/result/?q=Karen+Millen&qid=b59f40b12e3e5b8f8962626299ce2192&p=0&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Karen+Millen&dFR%5Bdiscount%5D%5B0%5D=gte0&idx=enterprise_magento_english_products",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/2ndSep2024-Women/women+brand/km.jpg",
+                    "tag": "KAREN MILLEN"
+                },
+                {
+                    "promotion_name": "MICHAEL KORS",
+                    "link": "/catalogsearch/result/?q=%2B&qid=04ff2381ee105160f9b9f1f8b4f041d6&p=0&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Michael+Kors&idx=enterprise_magento_english_products",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/2ndSep2024-Women/women+brand/Michael+Kors.png",
+                    "tag": "MICHAEL KORS"
+                }
+            ],
+            "image_size": {
+                "height": 600,
+                "width": 500
+            }
+        },
+        {
+            "type": "bannerSliderWithLabel",
+            "index": 4,
+            "promotion_name": "Women-EN",
+            "tag": "Home-BrandsSlider-AW24",
+            "background_color": "#ffffff",
+            "items_per_row": "3",
+            "item_height": "240",
+            "header": {
+                "title": "TRENDING BRANDS"
+            },
+            "items": [
+                {
+                    "promotion_name": "COAST",
+                    "tag": "COAST",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/2ndSep2024-Women/women+brand/coast.jpg",
+                    "link": "/catalogsearch/result/?q=COAST&qid=bcb976d1f19627c66b274eda58b0d398&p=0&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Coast&dFR%5Bdiscount%5D%5B0%5D=gte0&idx=enterprise_magento_english_products",
+                    "width": 500,
+                    "height": 600
+                },
+                {
+                    "promotion_name": "BIRKENSTOCK",
+                    "tag": "BIRKENSTOCK",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/2ndSep2024-Women/women+brand/herschel.jpg",
+                    "link": "/catalogsearch/result/?q=BIRKENSTOCK&qid=287ab4a921d7b522eb676ad75da94e17&p=0&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Birkenstock&idx=enterprise_magento_english_products",
+                    "width": 500,
+                    "height": 600
+                },
+                {
+                    "promotion_name": "Steve Madden",
+                    "tag": "Steve Madden",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/2ndSep2024-Women/women+brand/Steve+Madden.jpg",
+                    "link": "/catalogsearch/result/?q=Steve+Madden&qid=34e21d6d27506d6e1cf9026e1b56d412&p=0&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Steve+Madden&dFR%5Bdiscount%5D%5B0%5D=gte0&idx=enterprise_magento_english_products",
+                    "width": 500,
+                    "height": 600
+                },
+                {
+                    "promotion_name": "TOMMY HILFIGER",
+                    "tag": "TOMMY HILFIGER",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/2ndSep2024-Women/women+brand/Tommy_.jpg",
+                    "link": "/catalogsearch/result/?q=Tommy+Hilfiger&qid=2a67e3747b1eb95f677338789b620e8f&p=0&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte0&idx=enterprise_magento_english_products",
+                    "width": 500,
+                    "height": 600
+                },
+                {
+                    "promotion_name": "CALL IT SPRING",
+                    "tag": "CALL IT SPRING",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/2ndSep2024-Women/women+brand/call+it+spring.jpg",
+                    "link": "/catalogsearch/result/?q=Call+IT+SPring&qid=6395ad87e121c7198140e8c689104315&p=0&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Call+it+Spring&idx=enterprise_magento_english_products",
+                    "width": 500,
+                    "height": 600
+                },
+                {
+                    "promotion_name": "BEVERLY HILLS POLO CLUB",
+                    "tag": "BEVERLY HILLS POLO CLUB",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/2ndSep2024-Women/women+brand/bhpc.jpg",
+                    "link": "/catalogsearch/result/?q=Beverly+Hills+Polo+Club&qid=c6799a976bcb9f7530f9bcf3324d1c9c&p=0&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Beverly+Hills+Polo+Club&dFR%5Bdiscount%5D%5B0%5D=gte0&idx=enterprise_magento_english_products",
+                    "width": 500,
+                    "height": 600
+                },
+                {
+                    "promotion_name": "TOMS",
+                    "tag": "TOMS",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/2ndSep2024-Women/women+brand/toms.jpg",
+                    "link": "/catalogsearch/result/?q=TOMS&qid=c661712128f8bf41b9c2b23724306eb1&p=0&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Toms&dFR%5Bdiscount%5D%5B0%5D=gte0&idx=enterprise_magento_english_products",
+                    "width": 500,
+                    "height": 600
+                },
+                {
+                    "promotion_name": "DKNY",
+                    "tag": "DKNY",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/2ndSep2024-Women/women+brand/DKNY.png",
+                    "link": "/catalogsearch/result/?q=DKNY&qid=dea426adb578ee302858e10fdc914e4a&p=0&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Dkny&dFR%5Bdiscount%5D%5B0%5D=gte0&idx=enterprise_magento_english_products",
+                    "width": 500,
+                    "height": 600
+                },
+                {
+                    "promotion_name": "U.S. POLO ASSN.",
+                    "tag": "U.S. POLO ASSN.",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/2ndSep2024-Women/women+brand/us+polo.jpg",
+                    "link": "/catalogsearch/result/?q=U.S.+POLO+ASSN.&qid=4670e1e9f99463edec9f67fd5a2c125d&p=0&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=U.S.+Polo+Assn.&dFR%5Bdiscount%5D%5B0%5D=gte0&idx=enterprise_magento_english_products",
+                    "width": 500,
+                    "height": 600
+                },
+                {
+                    "promotion_name": "HOKA",
+                    "tag": "HOKA",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/2ndSep2024-Women/women+brand/hoka.jpg",
+                    "link": "/catalogsearch/result/?q=Hoka&qid=096345b901a02b1e3dda9632b5449c49&p=0&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Hoka&dFR%5Bdiscount%5D%5B0%5D=gte0&idx=enterprise_magento_english_products",
+                    "width": 500,
+                    "height": 600
+                },
+                {
+                    "promotion_name": "Trendyol",
+                    "tag": "Trendyol",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/2ndSep2024-Women/women+brand/trendyol.jpg",
+                    "link": "/catalogsearch/result/?q=%2B&qid=f9548918cc45b68713e8b1a09ccfcbb9&p=0&dFR%5Bbrand_name%5D%5B0%5D=ALLDAY%2Carmonika%2CAvva%2CBianco+Lucci%2CBigdart%2CB%C4%B0KEL%C4%B0FE%2CBy+Sayg%C4%B1%2CCapone+Outfitters%2CCool+%26+Sexy%2CDagi%2CDilvin%2CGRIMELANGE%2CHappiness+%C4%B0stanbul%2CHummel%2CINSTYLE%2CIpekyol%2CKnow%2CKoton%2CLafaba%2CLOS+OJOS%2CMadmext%2CMizalle%2CMODAGEN%2COlalook%2COlcay%2CPierre+Cardin%2CSOHO%2CTesett%C3%BCr+D%C3%BCnyas%C4%B1%2CTonny+Black%2CTrend+Ala%C3%A7at%C4%B1+Stili%2CTrendyol%2CVATKALI%2CVitrin&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte0%2Clte75&idx=enterprise_magento_english_products",
+                    "width": 500,
+                    "height": 600
+                },
+                {
+                    "promotion_name": "AMAL IBRAHIM",
+                    "tag": "AMAL IBRAHIM",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/2ndSep2024-Women/women+brand/ahmed.jpg",
+                    "link": "/catalogsearch/result/?q=AMAL+IBRAHIM&qid=566959c9ff393e29b9cb6cfba0d39069&p=0&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Amal+Ibrahim&idx=enterprise_magento_english_products",
+                    "width": 500,
+                    "height": 600
+                },
+                {
+                    "promotion_name": "LEVI'S",
+                    "tag": "LEVI'S",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/2ndSep2024-Women/women+brand/anne+klein.jpg",
+                    "link": "/catalogsearch/result/?q=LEVI%27S&qid=f81acd7c1b72a212c78854d9bde30cca&p=0&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Levi%27s&dFR%5Bdiscount%5D%5B0%5D=gte0&idx=enterprise_magento_english_products",
+                    "width": 500,
+                    "height": 600
+                },
+                {
+                    "promotion_name": "ARMANI EXCHANGE",
+                    "tag": "ARMANI EXCHANGE",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/2ndSep2024-Women/women+brand/ax.jpg",
+                    "link": "/catalogsearch/result/?q=ARMANI+EXCHANGE&qid=2b4b9e1a7093dd0f773f6d98f33dd8ff&p=0&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Armani+Exchange&idx=enterprise_magento_english_products",
+                    "width": 500,
+                    "height": 600
+                },
+                {
+                    "promotion_name": "DANIEL WELLINGTON",
+                    "tag": "DANIEL WELLINGTON",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/2ndSep2024-Women/women+brand/dw.jpg",
+                    "link": "/catalogsearch/result/?q=DANIEL+WELLINGTON&qid=15264dc6759872ca6dbf9066ff7f789e&p=0&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Daniel+Wellington&idx=enterprise_magento_english_products",
+                    "width": 500,
+                    "height": 600
+                },
+                {
+                    "promotion_name": "KARL LAGERFELD",
+                    "tag": "KARL LAGERFELD",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/2ndSep2024-Women/women+brand/karl.jpg",
+                    "link": "/catalogsearch/result/?q=KARL+LAGERFELD&qid=4f7e07e37f2aca23933116b532053cb3&p=0&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Karl+Lagerfeld&idx=enterprise_magento_english_products",
+                    "width": 500,
+                    "height": 600
+                },
+                {
+                    "promotion_name": "LOVE MOSCHINO",
+                    "tag": "LOVE MOSCHINO",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/2ndSep2024-Women/women+brand/love-moschino.png",
+                    "link": "/catalogsearch/result/?q=LOVE+MOSCHINO&qid=6f474e5566cb494a27996050971eb249&p=0&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Love+Moschino&idx=enterprise_magento_english_products",
+                    "width": 500,
+                    "height": 600
+                },
+                {
+                    "promotion_name": "Ardene",
+                    "tag": "Ardene",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/2ndSep2024-Women/women+brand/wallis-1.jpg",
+                    "link": "/catalogsearch/result/?q=Ardene&qid=e08b2cbc5e28be12f497bd8de9c6d05f&p=0&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Ardene&idx=enterprise_magento_english_products",
+                    "width": 500,
+                    "height": 600
+                },
+                {
+                    "promotion_name": "COACH",
+                    "tag": "COACH",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/2ndSep2024-Women/women+brand/coach.jpg",
+                    "link": "/catalogsearch/result/?q=COACH&qid=ec9167536a775523682d1cdb1cdee447&p=0&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=COACH&idx=enterprise_magento_english_products",
+                    "width": 500,
+                    "height": 600
+                },
+                {
+                    "promotion_name": "WALLIS",
+                    "tag": "WALLIS",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/2ndSep2024-Women/women+brand/wallis.jpg",
+                    "link": "/catalogsearch/result/?q=WALLIS&qid=e73bd5e6b823ac8f5d267cf2aca0170f&p=0&dFR%5Bbrand_name%5D%5B0%5D=Wallis%2CWallis+-+Outlet&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_english_products",
+                    "width": 500,
+                    "height": 600
+                }
+            ]
+        },
+        {
+            "type": "productSlider",
+            "index": 5,
+            "promotion_name": "Women-EN-Home-High Rated Styles-Product Slider",
+            "tag": "High Rated Styles",
+            "data_url": "/catalogsearch/result/?q=%2B&qid=b743c7c6a70e717ac37640ecdb1fd6dc&p=0&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Brating_sku.average_ratings%5D%5B0%5D=gte4&dFR%5Brating_sku.total_ratings%5D%5B0%5D=gte3",
+            "title": "High-Rated Styles",
+            "background_color": "#f8dbad"
+        },
+        {
+            "type": "grid",
+            "index": 6,
+            "promotion_name": "Women-EN",
+            "tag": "Home-StyleEdit-AW24",
+            "background_color": "#ffffff",
+            "items_per_row": 6,
+            "item_height": 240,
+            "header": {
+                "title": "THE LATEST TREND BUZZ"
+            },
+            "items": [
+                {
+                    "promotion_name": "Home-StyleEdit-Bags",
+                    "link": "/women/bags.html?q=Women+Bags&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Bags&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_english_products",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/2ndSep2024-Women/EN/bag+en.jpg",
+                    "tag": "Bags"
+                },
+                {
+                    "promotion_name": "Home-StyleEdit-Footwear",
+                    "link": "/women/shoes/sandals.html?q=Women+Shoes+Sandals&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Shoes+%2F%2F%2F+Sandals&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Btoe_shape%5D%5B0%5D=Pointed+Toe&idx=enterprise_magento_english_products",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/2ndSep2024-Women/EN/footwear.jpg",
+                    "tag": "Footwear"
+                },
+                {
+                    "promotion_name": "Home-StyleEdit-Clothing",
+                    "link": "/catalogsearch/result/?q=%2B&qid=cf23c62662b879a7f6acd41dd11d908d&p=0&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bcategories_without_path%5D%5B0%5D=Hoodies%2CSweatshirts%2CPuffer+%26+Quilted+Jackets%2CCardigans%2CSweaters%2CRound+Neck+Sweaters%2CTurtleneck+Sweaters%2CV-neck+Sweaters&dFR%5BcategoryIds%5D%5B0%5D=15917%2C15918%2C15944%2C6058%2C15948%2C19245%2C19246%2C19244&idx=enterprise_magento_english_products",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/2ndSep2024-Women/EN/layer_.jpg",
+                    "tag": "Clothing"
+                },
+                {
+                    "promotion_name": "Home-StyleEdit-Beauty",
+                    "link": "/women/beauty.html?q=Women+Beauty&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Beauty&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bcolorfamily%5D%5B0%5D=Beige%2CBrown%2CCream%2CGreen%2COlive%2CTan%2CTaupe%2CPeach&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_english_products",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/2ndSep2024-Women/EN/beauty.jpg",
+                    "tag": "Beauty"
+                },
+                {
+                    "promotion_name": "Home-StyleEdit-Sneakers",
+                    "link": "/women/shoes/sneakers.html?q=Women+Shoes+Sneakers&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Shoes+%2F%2F%2F+Sneakers&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Women&idx=enterprise_magento_english_products",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/2ndSep2024-Women/EN/sneaker.jpg",
+                    "tag": "Sneakers"
+                },
+                {
+                    "promotion_name": "Home-StyleEdit-Accessories",
+                    "link": "/women/accessories/jewellery.html?q=Women+Accessories+Jewellery&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Accessories+%2F%2F%2F+Jewellery&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bcolorfamily%5D%5B0%5D=Gold%2CSilver&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_english_products",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/2ndSep2024-Women/EN/jewel.jpg",
+                    "tag": "Accessories"
+                }
+            ],
+            "image_size": {
+                "height": 667,
+                "width": 500
+            }
+        },
+        {
+            "type": "productSlider",
+            "index": 7,
+            "promotion_name": "Women-EN-Home-Best Seller-Product Slider",
+            "tag": "Best Seller-BAU",
+            "data_url": "/catalogsearch/result/?q=%2B&qid=e0d78cd3eeaee31f7811b74e156a6be8&p=0&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bpromotion%5D%5B0%5D=BEST+SELLER",
+            "title": "Bestselling Styles",
+            "background_color": "#d4e5e5"
+        },
+        {
+            "type": "bannerSliderWithLabel",
+            "index": 8,
+            "promotion_name": "Women-EN",
+            "tag": "Home-FreshStyle-slider20",
+            "title": "Fresh Styles",
+            "background_color": "#ffffff",
+            "items": [
+                {
+                    "promotion_name": "Home-FreshStyle-Puma",
+                    "tag": "Puma",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/13-08-2024-Women/newin+womens/newin+womens/puma_.jpg",
+                    "link": "/catalogsearch/result/?q=Puma&qid=5a7fd71cc73ebe05c206e8f6dac39c5b&p=0&dFR%5Bbrand_name%5D%5B0%5D=Puma&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bsort%5D%5B0%5D=latest&idx=enterprise_magento_english_products",
+                    "width": 500,
+                    "height": 937
+                },
+                {
+                    "promotion_name": "Home-FreshStyle-Melissa",
+                    "tag": "Melissa",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/25-07-2024-Women/Melissa.jpg",
+                    "link": "/catalogsearch/result/?q=Melissa&qid=af137c373b42ad39c39be60aced4b480&p=0&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Melissa&idx=enterprise_magento_english_products",
+                    "width": 500,
+                    "height": 937
+                },
+                {
+                    "promotion_name": "Home-FreshStyle-Menbur",
+                    "tag": "Menbur",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/11-06-2024-Women/women+newin/women+newin/Menbur.jpg",
+                    "link": "/catalogsearch/result/?q=Menbur&qid=04cf524dd26dd40cae06c1bde47b2315&p=0&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Menbur&idx=enterprise_magento_english_products",
+                    "width": 500,
+                    "height": 937
+                },
+                {
+                    "promotion_name": "Home-FreshStyle-Wildcraft",
+                    "tag": "Wildcraft",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/20-05-2024-Women/OneDrive_1_5-20-2024/Wildcraft.jpg",
+                    "link": "/catalogsearch/result/?q=Wildcraft&qid=935bdce6d5ca01e66c6dab804741b97a&p=0&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Wildcraft&idx=enterprise_magento_english_products",
+                    "width": 500,
+                    "height": 937
+                },
+                {
+                    "promotion_name": "Home-FreshStyle-Pierre Cardin",
+                    "tag": "Pierre Cardin",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/11-06-2024-Women/women+newin/women+newin/Pierre+Cardin.jpg",
+                    "link": "/catalogsearch/result/?q=Pierre+Cardin&qid=b933c599661561368481c0558d2290c1&p=0&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Pierre+Cardin&dFR%5Bsort%5D%5B0%5D=latest&idx=enterprise_magento_english_products",
+                    "width": 500,
+                    "height": 937
+                },
+                {
+                    "promotion_name": "Home-FreshStyle-Titan",
+                    "tag": "Titan",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/29-05-2024-Women/Titan.jpg",
+                    "link": "/catalogsearch/result/?q=Titan&qid=7ca3d07579c93b1d59105b671495d012&p=0&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Titan&idx=enterprise_magento_english_products",
+                    "width": 500,
+                    "height": 937
+                },
+                {
+                    "promotion_name": "Home-FreshStyle-Anne Klein",
+                    "tag": "Anne Klein",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/21-06-2024-Women/image.jpg",
+                    "link": "/catalogsearch/result/?q=Anne+Klein&qid=3909d6f68261af6ab9641eae994d922d&p=0&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Anne+Klein&idx=enterprise_magento_english_products",
+                    "width": 500,
+                    "height": 937
+                },
+                {
+                    "promotion_name": "Home-FreshStyle-Call it Spring",
+                    "tag": "Call it Spring",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-06-2024-Women/Womens+newin/Womens+newin/CIS.jpg",
+                    "link": "/catalogsearch/result/?q=call+it+spring&qid=a219efd07a6cc91a1f86aff65b656585&p=0&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Call+it+Spring&dFR%5Bsort%5D%5B0%5D=latest&idx=enterprise_magento_english_products",
+                    "width": 500,
+                    "height": 937
+                },
+                {
+                    "promotion_name": "Home-FreshStyle-Cuple",
+                    "tag": "Cuple",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-06-2024-Women/Womens+newin/Womens+newin/Cuple.jpg",
+                    "link": "/catalogsearch/result/?q=Cuple&qid=ede442ae370c789de16b16de856f2ed9&p=0&dFR%5Bbrand_name%5D%5B0%5D=Cuple&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bsort%5D%5B0%5D=latest&idx=enterprise_magento_english_products",
+                    "width": 500,
+                    "height": 937
+                },
+                {
+                    "promotion_name": "Home-FreshStyle-Vincci",
+                    "tag": "Vincci",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-06-2024-Women/Womens+newin/Womens+newin/VINCCI+EN.jpg",
+                    "link": "/catalogsearch/result/?q=Vincci&qid=17dccddde3ea12612cc19bc75fba65e4&p=0&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=VINCCI&dFR%5Bsort%5D%5B0%5D=latest&idx=enterprise_magento_english_products",
+                    "width": 500,
+                    "height": 937
+                },
+                {
+                    "promotion_name": "Home-FreshStyle-VivoBarefoot",
+                    "tag": "VivoBarefoot",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-06-2024-Women/Womens+newin/Womens+newin/VIVOBAREFOOT.jpg",
+                    "link": "/catalogsearch/result/?q=VivoBarefoot&qid=98cb81c875ee44b03037a9dcd4f4772b&p=0&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Vivobarefoot&dFR%5Bsort%5D%5B0%5D=latest&idx=enterprise_magento_english_products",
+                    "width": 500,
+                    "height": 937
+                },
+                {
+                    "promotion_name": "Home-FreshStyle-Ruuq",
+                    "tag": "Ruuq",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/21-06-2024-Women/RUUQ+2.jpg",
+                    "link": "/catalogsearch/result/?q=Ruuq&qid=ccc4c5bd267d56733bb027f5676a7b5c&p=0&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=RUUQ&idx=enterprise_magento_english_products",
+                    "width": 500,
+                    "height": 937
+                },
+                {
+                    "promotion_name": "Home-FreshStyle-FYOR",
+                    "tag": "FYOR",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/11-06-2024-Women/women+newin/women+newin/FYOR.jpg",
+                    "link": "/catalogsearch/result/?q=FYOR&qid=339de498c4ed991ee59ddd8f93e5d269&p=0&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Fyor&dFR%5Bsort%5D%5B0%5D=latest&idx=enterprise_magento_english_products",
+                    "width": 500,
+                    "height": 937
+                },
+                {
+                    "promotion_name": "Home-FreshStyle-Hoka",
+                    "tag": "Hoka",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/04-06-2024-Women/Newin+_4june/HOKA.jpg",
+                    "link": "/catalogsearch/result/?q=Hoka&qid=94bec4dab4be98c0757d157327c9eae2&p=0&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Hoka&dFR%5Bsort%5D%5B0%5D=latest&idx=enterprise_magento_english_products",
+                    "width": 500,
+                    "height": 937
+                },
+                {
+                    "promotion_name": "Home-FreshStyle-KYVELI",
+                    "tag": "KYVELI",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/04-06-2024-Women/Newin+_4june/Kyveli.jpg",
+                    "link": "/catalogsearch/result/?q=KYVELI&qid=1f81f67b4c5479177db13ad119ce60a4&p=0&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=KYVELI&idx=enterprise_magento_english_products",
+                    "width": 500,
+                    "height": 937
+                },
+                {
+                    "promotion_name": "Home-FreshStyle-Hailys",
+                    "tag": "Hailys",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/28-05-2024-Women/Hailys.jpg",
+                    "link": "/catalogsearch/result/?q=Hailys&qid=c6d3639e2a670aa3f2cf4d6747ed8416&p=0&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Hailys&idx=enterprise_magento_english_products",
+                    "width": 500,
+                    "height": 937
+                },
+                {
+                    "promotion_name": "Home-FreshStyle-boohoo",
+                    "tag": "boohoo",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/20-05-2024-Women/Newin/Newin/17+may/EN/Boohoo+en_.jpg",
+                    "link": "/catalogsearch/result/?q=boohoo&qid=1ed8db2ab9179327df4f78f726ff22df&p=0&dFR%5Bsort%5D%5B0%5D=latest&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=boohoo&idx=enterprise_magento_english_products",
+                    "width": 500,
+                    "height": 937
+                },
+                {
+                    "promotion_name": "Home-FreshStyle-Trendyol",
+                    "tag": "Trendyol",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/20-05-2024-Women/Newin/Newin/17+may/EN/Trendyol+en.jpg",
+                    "link": "/catalogsearch/result/?q=Trendyol&qid=40483b0661cff6be1a5687bcbb950dfa&p=0&dFR%5Bbrand_name%5D%5B0%5D=Trendyol&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bsort%5D%5B0%5D=latest&idx=enterprise_magento_english_products",
+                    "width": 500,
+                    "height": 937
+                },
+                {
+                    "promotion_name": "Home-FreshStyle-Happiness Ä°stanbul",
+                    "tag": "Happiness Ä°stanbul",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/20-05-2024-Women/Newin/Newin/17+may/EN/Happiness+Astanbul.jpg",
+                    "link": "/catalogsearch/result/?q=Happiness+%C3%84%C2%B0stanbul&qid=802a1a7310254e874e52e39dc2582c5f&p=0&dFR%5Bbrand_name%5D%5B0%5D=Happiness+%C4%B0stanbul&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bsort%5D%5B0%5D=latest&idx=enterprise_magento_english_products",
+                    "width": 500,
+                    "height": 937
+                },
+                {
+                    "promotion_name": "Home-FreshStyle-SOHO",
+                    "tag": "SOHO",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/20-05-2024-Women/Newin/Newin/17+may/EN/SOHO.jpg",
+                    "link": "/catalogsearch/result/?q=SOHO&qid=a1523552c61ffe2a811ee5d3aa1465fe&p=0&dFR%5Bbrand_name%5D%5B0%5D=SOHO&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bsort%5D%5B0%5D=latest&idx=enterprise_magento_english_products",
+                    "width": 500,
+                    "height": 937
+                }
+            ]
+        },
+        {
+            "type": "bannerSliderWithLabel",
+            "index": 9,
+            "promotion_name": "Women-EN",
+            "tag": "Home-Beauty section-Slider",
+            "title": "Beauty Lounge",
+            "background_color": "#ffffff",
+            "items": [
+                {
+                    "promotion_name": "Home-Beauty section-Skin care",
+                    "tag": "Skin care",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/18-06-2024-Women/Beauty+section/skin-care.jpg",
+                    "link": "/women/beauty/skin-care.html?q=Women+Beauty+Skin+Care&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Beauty+%2F%2F%2F+Skin+Care&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_english_products",
+                    "width": 505,
+                    "height": 820
+                },
+                {
+                    "promotion_name": "Home-Beauty section-Make up",
+                    "tag": "Make up",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/18-06-2024-Women/Beauty+section/make-up.jpg",
+                    "link": "/women/beauty/makeup.html?q=Women+Beauty+Makeup&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Beauty+%2F%2F%2F+Makeup&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_english_products",
+                    "width": 505,
+                    "height": 820
+                },
+                {
+                    "promotion_name": "Home-Beauty section-Fragrance",
+                    "tag": "Fragrance",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/18-06-2024-Women/Beauty+section/fragrances.jpg",
+                    "link": "/women/beauty/fragrance.html?q=Women+Beauty+Fragrance&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Beauty+%2F%2F%2F+Fragrance&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Men%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_english_products",
+                    "width": 505,
+                    "height": 820
+                },
+                {
+                    "promotion_name": "Home-Beauty section-Hair Care",
+                    "tag": "Hair Care",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/18-06-2024-Women/Beauty+section/hair.jpg",
+                    "link": "/women/beauty/hair-care.html?q=Women+Beauty+Hair+Care&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Beauty+%2F%2F%2F+Hair+Care&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_english_products",
+                    "width": 505,
+                    "height": 820
+                },
+                {
+                    "promotion_name": "Home-Beauty section-Tools",
+                    "tag": "Tools",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/18-06-2024-Women/Beauty+section/tools.jpg",
+                    "link": "/women/beauty.html?q=Women+Beauty&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Beauty&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bcategories_without_path%5D%5B0%5D=Body+Hair+Tools+%26+Others%2CCleansers%2CEye+Care%2CFace+Care%2CFacial+Kits%2CGift+Set%2CHand+And+Feet%2CKits+%26+Sets%2CKits+And+Combos%2CMask%2CMoisturizers%2CSKINCARE+TOOLS+%26+ACCESSORIES%2CSun+Protection+And+Tanning%2CToners+%26+Serums%2CBrush+And+Combs%2CDryers+And+Stylers%2CHair+Accessories%2CRollers+And+Curlers%2CStraighteners%2CARTIFICIAL+MAKEUP+ARTS%2CMakeup+Brushes%2CMakeup+Pouches%2CMirrors%2CSponges+%26+Applicators%2CTweezers+And+Sharpners%2CFace+Wash+%26+Cleanser%2CFacial+Wipes%2CMakeup+Removers%2CToners%2CEye+Make+Up+Removal%2CEye+Mask%2CUnder+Eye+Cream%2CTreatments%2CFoot+Cream%2CHand+And+Feet+Mask%2CHand+Cream%2CFacial+Kits%2CGift+Set%2CMask+And+Peel%2CSheet+Mask%2CDay+And+Night+Cream%2CFace+Moisturizers%2CSerums+%26+Mist%2CBLOTTING+PAPERS%2CFace+Sunscreen%2CMakeup+Brushes%2CMakeup+Pouches%2CSponges+%26+Applicators&dFR%5BcategoryIds%5D%5B0%5D=19344%2C9395%2C9405%2C10102%2C19341%2C19342%2C9413%2C19343%2C9417%2C9401%2C9390%2C10104%2C9410%2C19338%2C9328%2C9330%2C9329%2C9331%2C9332%2C10101%2C9386%2C9387%2C9388%2C9383%2C9385%2C9396%2C9399%2C9397%2C9400%2C9408%2C9409%2C9406%2C10108%2C9415%2C9416%2C9414%2C9418%2C9419%2C9402%2C9403%2C9391%2C9392%2C9394%2C10107%2C9411&idx=enterprise_magento_english_products",
+                    "width": 505,
+                    "height": 820
+                }
+            ]
+        },
+        {
+            "type": "bannerSliderWithLabel",
+            "index": 10,
+            "promotion_name": "Women-EN",
+            "tag": "Home-BrandsSlider-AW24",
+            "background_color": "#ffffff",
+            "items_per_row": "3",
+            "item_height": "240",
+            "header": {
+                "title": "TRENDING BRANDS"
+            },
+            "items": [
+                {
+                    "promotion_name": "COAST",
+                    "tag": "COAST",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/2ndSep2024-Women/women+brand/coast.jpg",
+                    "link": "/catalogsearch/result/?q=COAST&qid=bcb976d1f19627c66b274eda58b0d398&p=0&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Coast&dFR%5Bdiscount%5D%5B0%5D=gte0&idx=enterprise_magento_english_products",
+                    "width": 500,
+                    "height": 600
+                },
+                {
+                    "promotion_name": "BIRKENSTOCK",
+                    "tag": "BIRKENSTOCK",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/2ndSep2024-Women/women+brand/herschel.jpg",
+                    "link": "/catalogsearch/result/?q=BIRKENSTOCK&qid=287ab4a921d7b522eb676ad75da94e17&p=0&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Birkenstock&idx=enterprise_magento_english_products",
+                    "width": 500,
+                    "height": 600
+                },
+                {
+                    "promotion_name": "Steve Madden",
+                    "tag": "Steve Madden",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/2ndSep2024-Women/women+brand/Steve+Madden.jpg",
+                    "link": "/catalogsearch/result/?q=Steve+Madden&qid=34e21d6d27506d6e1cf9026e1b56d412&p=0&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Steve+Madden&dFR%5Bdiscount%5D%5B0%5D=gte0&idx=enterprise_magento_english_products",
+                    "width": 500,
+                    "height": 600
+                },
+                {
+                    "promotion_name": "TOMMY HILFIGER",
+                    "tag": "TOMMY HILFIGER",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/2ndSep2024-Women/women+brand/Tommy_.jpg",
+                    "link": "/catalogsearch/result/?q=Tommy+Hilfiger&qid=2a67e3747b1eb95f677338789b620e8f&p=0&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte0&idx=enterprise_magento_english_products",
+                    "width": 500,
+                    "height": 600
+                },
+                {
+                    "promotion_name": "CALL IT SPRING",
+                    "tag": "CALL IT SPRING",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/2ndSep2024-Women/women+brand/call+it+spring.jpg",
+                    "link": "/catalogsearch/result/?q=Call+IT+SPring&qid=6395ad87e121c7198140e8c689104315&p=0&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Call+it+Spring&idx=enterprise_magento_english_products",
+                    "width": 500,
+                    "height": 600
+                },
+                {
+                    "promotion_name": "BEVERLY HILLS POLO CLUB",
+                    "tag": "BEVERLY HILLS POLO CLUB",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/2ndSep2024-Women/women+brand/bhpc.jpg",
+                    "link": "/catalogsearch/result/?q=Beverly+Hills+Polo+Club&qid=c6799a976bcb9f7530f9bcf3324d1c9c&p=0&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Beverly+Hills+Polo+Club&dFR%5Bdiscount%5D%5B0%5D=gte0&idx=enterprise_magento_english_products",
+                    "width": 500,
+                    "height": 600
+                },
+                {
+                    "promotion_name": "TOMS",
+                    "tag": "TOMS",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/2ndSep2024-Women/women+brand/toms.jpg",
+                    "link": "/catalogsearch/result/?q=TOMS&qid=c661712128f8bf41b9c2b23724306eb1&p=0&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Toms&dFR%5Bdiscount%5D%5B0%5D=gte0&idx=enterprise_magento_english_products",
+                    "width": 500,
+                    "height": 600
+                },
+                {
+                    "promotion_name": "DKNY",
+                    "tag": "DKNY",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/2ndSep2024-Women/women+brand/DKNY.png",
+                    "link": "/catalogsearch/result/?q=DKNY&qid=dea426adb578ee302858e10fdc914e4a&p=0&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Dkny&dFR%5Bdiscount%5D%5B0%5D=gte0&idx=enterprise_magento_english_products",
+                    "width": 500,
+                    "height": 600
+                },
+                {
+                    "promotion_name": "U.S. POLO ASSN.",
+                    "tag": "U.S. POLO ASSN.",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/2ndSep2024-Women/women+brand/us+polo.jpg",
+                    "link": "/catalogsearch/result/?q=U.S.+POLO+ASSN.&qid=4670e1e9f99463edec9f67fd5a2c125d&p=0&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=U.S.+Polo+Assn.&dFR%5Bdiscount%5D%5B0%5D=gte0&idx=enterprise_magento_english_products",
+                    "width": 500,
+                    "height": 600
+                },
+                {
+                    "promotion_name": "HOKA",
+                    "tag": "HOKA",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/2ndSep2024-Women/women+brand/hoka.jpg",
+                    "link": "/catalogsearch/result/?q=Hoka&qid=096345b901a02b1e3dda9632b5449c49&p=0&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Hoka&dFR%5Bdiscount%5D%5B0%5D=gte0&idx=enterprise_magento_english_products",
+                    "width": 500,
+                    "height": 600
+                },
+                {
+                    "promotion_name": "Trendyol",
+                    "tag": "Trendyol",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/2ndSep2024-Women/women+brand/trendyol.jpg",
+                    "link": "/catalogsearch/result/?q=%2B&qid=f9548918cc45b68713e8b1a09ccfcbb9&p=0&dFR%5Bbrand_name%5D%5B0%5D=ALLDAY%2Carmonika%2CAvva%2CBianco+Lucci%2CBigdart%2CB%C4%B0KEL%C4%B0FE%2CBy+Sayg%C4%B1%2CCapone+Outfitters%2CCool+%26+Sexy%2CDagi%2CDilvin%2CGRIMELANGE%2CHappiness+%C4%B0stanbul%2CHummel%2CINSTYLE%2CIpekyol%2CKnow%2CKoton%2CLafaba%2CLOS+OJOS%2CMadmext%2CMizalle%2CMODAGEN%2COlalook%2COlcay%2CPierre+Cardin%2CSOHO%2CTesett%C3%BCr+D%C3%BCnyas%C4%B1%2CTonny+Black%2CTrend+Ala%C3%A7at%C4%B1+Stili%2CTrendyol%2CVATKALI%2CVitrin&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte0%2Clte75&idx=enterprise_magento_english_products",
+                    "width": 500,
+                    "height": 600
+                },
+                {
+                    "promotion_name": "AMAL IBRAHIM",
+                    "tag": "AMAL IBRAHIM",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/2ndSep2024-Women/women+brand/ahmed.jpg",
+                    "link": "/catalogsearch/result/?q=AMAL+IBRAHIM&qid=566959c9ff393e29b9cb6cfba0d39069&p=0&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Amal+Ibrahim&idx=enterprise_magento_english_products",
+                    "width": 500,
+                    "height": 600
+                },
+                {
+                    "promotion_name": "LEVI'S",
+                    "tag": "LEVI'S",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/2ndSep2024-Women/women+brand/anne+klein.jpg",
+                    "link": "/catalogsearch/result/?q=LEVI%27S&qid=f81acd7c1b72a212c78854d9bde30cca&p=0&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Levi%27s&dFR%5Bdiscount%5D%5B0%5D=gte0&idx=enterprise_magento_english_products",
+                    "width": 500,
+                    "height": 600
+                },
+                {
+                    "promotion_name": "ARMANI EXCHANGE",
+                    "tag": "ARMANI EXCHANGE",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/2ndSep2024-Women/women+brand/ax.jpg",
+                    "link": "/catalogsearch/result/?q=ARMANI+EXCHANGE&qid=2b4b9e1a7093dd0f773f6d98f33dd8ff&p=0&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Armani+Exchange&idx=enterprise_magento_english_products",
+                    "width": 500,
+                    "height": 600
+                },
+                {
+                    "promotion_name": "DANIEL WELLINGTON",
+                    "tag": "DANIEL WELLINGTON",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/2ndSep2024-Women/women+brand/dw.jpg",
+                    "link": "/catalogsearch/result/?q=DANIEL+WELLINGTON&qid=15264dc6759872ca6dbf9066ff7f789e&p=0&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Daniel+Wellington&idx=enterprise_magento_english_products",
+                    "width": 500,
+                    "height": 600
+                },
+                {
+                    "promotion_name": "KARL LAGERFELD",
+                    "tag": "KARL LAGERFELD",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/2ndSep2024-Women/women+brand/karl.jpg",
+                    "link": "/catalogsearch/result/?q=KARL+LAGERFELD&qid=4f7e07e37f2aca23933116b532053cb3&p=0&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Karl+Lagerfeld&idx=enterprise_magento_english_products",
+                    "width": 500,
+                    "height": 600
+                },
+                {
+                    "promotion_name": "LOVE MOSCHINO",
+                    "tag": "LOVE MOSCHINO",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/2ndSep2024-Women/women+brand/love-moschino.png",
+                    "link": "/catalogsearch/result/?q=LOVE+MOSCHINO&qid=6f474e5566cb494a27996050971eb249&p=0&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Love+Moschino&idx=enterprise_magento_english_products",
+                    "width": 500,
+                    "height": 600
+                },
+                {
+                    "promotion_name": "Ardene",
+                    "tag": "Ardene",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/2ndSep2024-Women/women+brand/wallis-1.jpg",
+                    "link": "/catalogsearch/result/?q=Ardene&qid=e08b2cbc5e28be12f497bd8de9c6d05f&p=0&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Ardene&idx=enterprise_magento_english_products",
+                    "width": 500,
+                    "height": 600
+                },
+                {
+                    "promotion_name": "COACH",
+                    "tag": "COACH",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/2ndSep2024-Women/women+brand/coach.jpg",
+                    "link": "/catalogsearch/result/?q=COACH&qid=ec9167536a775523682d1cdb1cdee447&p=0&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=COACH&idx=enterprise_magento_english_products",
+                    "width": 500,
+                    "height": 600
+                },
+                {
+                    "promotion_name": "WALLIS",
+                    "tag": "WALLIS",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/2ndSep2024-Women/women+brand/wallis.jpg",
+                    "link": "/catalogsearch/result/?q=WALLIS&qid=e73bd5e6b823ac8f5d267cf2aca0170f&p=0&dFR%5Bbrand_name%5D%5B0%5D=Wallis%2CWallis+-+Outlet&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_english_products",
+                    "width": 500,
+                    "height": 600
+                }
+            ]
+        }
+    ]
+}
